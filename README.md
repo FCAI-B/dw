@@ -5,6 +5,11 @@
 + Google Meet link for the 1st part of the lecture: https://meet.google.com/pdh-gvnk-hid
 ```
 
+### Tasks to do
+Please do the following (<ins>deadline **14 Dec**</ins>) 
+ - Module 8 Lab: Storing and Analyzing Data by Using Amazon Redshift
+
+
 <!--
 ```diff
 - There is no lecture tomorrow (6 Dec.)

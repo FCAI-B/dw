@@ -1,14 +1,17 @@
 # Data Warehousing
 
+<!-- The lecture at 6:30 pm on Friday -->
+
 ```diff
 
 + Google Meet link for the 1st part of the lecture: https://meet.google.com/pdh-gvnk-hid
-- The lecture at 6:30 pm on Friday
+
 ```
 
 ### Tasks to do
 Please do the following (<ins>deadline **14 Dec**</ins>) 
  - Module 8 Lab: Storing and Analyzing Data by Using Amazon Redshift
+ - Module 8 Knowledge Check
 
 
 <!--

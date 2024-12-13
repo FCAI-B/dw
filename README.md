@@ -3,6 +3,7 @@
 ```diff
 
 + Google Meet link for the 1st part of the lecture: https://meet.google.com/pdh-gvnk-hid
+- The lecture at 6:30 pm on Friday
 ```
 
 ### Tasks to do

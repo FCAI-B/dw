@@ -10,7 +10,7 @@
 
 ### Tasks to do
 Please do the following (<ins>deadline **14 Dec**</ins>) 
- - Module 8 Lab: Storing and Analyzing Data by Using Amazon Redshift
+ - Module 8 Lab: Storing and Analyzing Data by Using Amazon Redshift (<ins>**This lab was covered in lecture 6**<ins>)
  - Module 8 Knowledge Check
 
 

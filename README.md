@@ -1,11 +1,12 @@
 # Data Warehousing
 
-<!-- The lecture at 6:30 pm on Friday -->
+<!-- 
+The lecture at 6:30 pm on Friday 
++ Google Meet link for the 1st part of the lecture: https://meet.google.com/pdh-gvnk-hid
+-->
 
 ```diff
-
-+ Google Meet link for the 1st part of the lecture: https://meet.google.com/pdh-gvnk-hid
-
++ We have finished the course. I wish you all the best in your exams.
 ```
 
 ### Tasks to do

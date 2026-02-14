@@ -12,7 +12,7 @@ Please do the following (<ins>deadline **14 Dec**</ins>)
 -->
 
 ```diff
-- We will start our course in the faculty tomorrow, 15 Feb 2026.
+- We will start our courses in the faculty tomorrow, 15 Feb 2026.
 ```
 
 

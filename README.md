@@ -9,10 +9,11 @@ The lecture at 6:30 pm on Friday
 Please do the following (<ins>deadline **14 Dec**</ins>) 
  - Module 8 Lab: Storing and Analyzing Data by Using Amazon Redshift (<ins>**This lab was covered in lecture 6**<ins>)
  - Module 8 Knowledge Check
+ - We will start our courses in the faculty tomorrow, 15 Feb 2026.
 -->
 
 ```diff
-- We will start our courses in the faculty tomorrow, 15 Feb 2026.
+
 ```
 
 

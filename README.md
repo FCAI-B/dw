@@ -1,16 +1,21 @@
 # Data Warehousing
 
 ```diff
-+ At **1:45 pm** on Thursday, we will have our Data Warehousing lecture online, Insha Allah 
-+ At **2:30 pm** on Thursday, we will have our Information Security lecture online, Insha Allah
++ Nuxt Sunday, 12 PM (Hall 5 "Modareg5"): We will have our next Information Security lecture
++ Next Sunday, 01 PM (Hall 5 "Modareg5"): We will have our next Data Warehousing lecture
 
 ```
-* Link 1: [https://meet.google.com/qcn-nheh-ehe](https://meet.google.com/qcn-nheh-ehe)
-* Link 2: [https://meet.google.com/izg-mdkj-dqo](https://meet.google.com/izg-mdkj-dqo)
+
 ---
 
 
 <!-- 
++ At **1:45 pm** on Thursday, we will have our Data Warehousing lecture online, Insha Allah 
++ At **2:30 pm** on Thursday, we will have our Information Security lecture online, Insha Allah
+* Link 1: [https://meet.google.com/qcn-nheh-ehe](https://meet.google.com/qcn-nheh-ehe)
+* Link 2: [https://meet.google.com/izg-mdkj-dqo](https://meet.google.com/izg-mdkj-dqo)
+
+
 + Google Meet link for the 1st part of the lecture: https://meet.google.com/pdh-gvnk-hid
 - We will start our courses in the faculty tomorrow, 15 Feb 2026.
 + We have finished the course. I wish you all the best in your exams.

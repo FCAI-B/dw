@@ -1,8 +1,9 @@
 # Data Warehousing
 
 ```diff
-+ Nuxt Sunday, 12 PM (Hall 5 "Modareg5"): We will have our next Information Security lecture
-+ Next Sunday, 01 PM (Hall 5 "Modareg5"): We will have our next Data Warehousing lecture
+
+- The Information Security lecture (of 29 Mar) will be postponed after the Midterm.
+- The Data Warehousing lecture (of 29 Mar) will be postponed after the Midterm.
 
 ```
 
@@ -10,6 +11,9 @@
 
 
 <!-- 
++ Nuxt Sunday, 12 PM (Hall 5 "Modareg5"): We will have our next Information Security lecture
++ Next Sunday, 01 PM (Hall 5 "Modareg5"): We will have our next Data Warehousing lecture
+
 + At **1:45 pm** on Thursday, we will have our Data Warehousing lecture online, Insha Allah 
 + At **2:30 pm** on Thursday, we will have our Information Security lecture online, Insha Allah
 * Link 1: [https://meet.google.com/qcn-nheh-ehe](https://meet.google.com/qcn-nheh-ehe)

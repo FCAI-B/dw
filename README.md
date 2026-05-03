@@ -1,7 +1,7 @@
 # Data Warehousing
 
 ```diff
-+ Our next lectures will be on Sunday, 19 April, at Hall 5 (Modareg 5), Insha Allah. 
++ Next lecture, Sunday, 3 May, will be online on 7 May at 1:30 pm, InshaAllah. 
 
 
 ```

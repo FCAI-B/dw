@@ -4,7 +4,8 @@
 ## Tasks to do
 
 ```diff
-- Please do the following tasks at AWS Academy before 19 May.
++ An invitation to the AWS Academy course has been sent to your Edu Mail
+- Please do the following tasks at AWS Academy before 19 May
  + Lab: Storing and Analyzing Data by Using Amazon Redshift
  + Module 8 Knowledge Check
 

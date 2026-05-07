@@ -1,15 +1,26 @@
 # Data Warehousing
 
-```diff
-+ Next lecture, Sunday, 3 May, will be online on 7 May at 1:30 pm, InshaAllah.
-```
-* Link 1: [https://meet.google.com/qcn-nheh-ehe](https://meet.google.com/qcn-nheh-ehe)
-* Link 2: [https://meet.google.com/izg-mdkj-dqo](https://meet.google.com/izg-mdkj-dqo)
 
+## Tasks to do
+
+```diff
+- Please do the following tasks at AWS Academy before 19 May.
+ + Lab: Storing and Analyzing Data by Using Amazon Redshift
+ + Module 8 Knowledge Check
+
+```
 ---
 
 
-<!-- 
+<!--
+
+
++ Next lecture, Sunday, 3 May, will be online on 7 May at 1:30 pm, InshaAllah.
+```
+ Link 1: [https://meet.google.com/qcn-nheh-ehe](https://meet.google.com/qcn-nheh-ehe)
+* Link 2: [https://meet.google.com/izg-mdkj-dqo](https://meet.google.com/izg-mdkj-dqo)
+<!--
+
 - The Information Security lecture (of 29 Mar) will be postponed after the Midterm.
 - The Data Warehousing lecture (of 29 Mar) will be postponed after the Midterm.
 + Nuxt Sunday, 12 PM (Hall 5 "Modareg5"): We will have our next Information Security lecture
